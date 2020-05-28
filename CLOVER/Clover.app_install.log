@@ -1,0 +1,33 @@
+
+Clover Installer r5117 (a4ac6daf9) (v1.1.4), 2020-05-16 02:04:53
+macOS Version 10.15.4 (Build 19E287)
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Target volume: /Volumes/EFI
+BSD Name:      disk1s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/AudioDxe.efi
++ ../UEFI/DataHubDxe.efi
++ ../UEFI/FSInject.efi
++ ../UEFI/SMCHelper.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/VBoxHfs.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
++ ../CLOVER/config.plist
+
+Installing Theme "Clovy":
++ ../themes/Clovy
